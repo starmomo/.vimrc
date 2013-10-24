@@ -6,7 +6,8 @@ set guifont=Bitstream_Vera_Sans_Mono:h9
 set nocompatible
 source $VIMRUNTIME/vimrc_example.vim
 source $VIMRUNTIME/mswin.vim  " ~/.vim/my_mswin.vim
-
+"" 2013.10.24. commit this
+"" Second commit here
 set t_Co=256
 set diffexpr=MyDiff()
 function MyDiff()
