@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/starmomo'
+let g:netrw_dirhist_2='/usr/share'
+let g:netrw_dirhist_3='/usr/share/vim'
+let g:netrw_dirhist_4='/usr/share/vim/vim74'
+let g:netrw_dirhist_5='/home/starmomo'
+let g:netrw_dirhist_6='/home/starmomo/.vim'
+let g:netrw_dirhist_7='/home/starmomo/.vim/bundle'
+let g:netrw_dirhist_8='/home/starmomo/.vim/bundle/vundle'
+let g:netrw_dirhist_9='/home/starmomo/.vim/bundle'
