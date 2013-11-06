@@ -1,2 +1,0 @@
-This is commit file.
-git commit 으로 커밋할 것입니다.
