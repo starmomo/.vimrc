@@ -1,4 +1,4 @@
-:version 4.4
+:version 7.4
 set encoding=utf-8
 set fileencodings=ucs-bom,utf-8,euc-kr,cp949,euc-jp,shift-jis,big5,latin1,ucs-21e
 set guifont=Consolas:h11:cANSI
